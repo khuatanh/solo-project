@@ -1,0 +1,75 @@
+*{
+	margin-left: 0px;
+	padding: 0px;
+	border: none;
+}
+#dropdownMenuButton{
+	width: 85px;
+	height: 100%;
+	background-color: transparent;
+	border: none;
+	color: #a0a0a0;
+	font-family: arial;
+	font-size: 12px;
+	box-shadow: 0 0 0 0rem rgba(0,0,0,0);
+}
+.dropdown-menu{
+	height: 80px;
+	font-size: 12px;
+	font-family: arial;
+	
+}
+.fa-phone{
+	font-size: 15px;
+	color: #a0a0a0;
+}
+.contact{
+	color: #a0a0a0;
+	font-size: 12px;
+	font-family: 'Roboto', sans-serif;
+	padding-left: 200px;	
+}
+.contact span{
+	padding-right: 20px;
+}
+.login{
+	color: #a0a0a0;
+	font-size: 13px;
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+}
+a, span{
+	color: #a0a0a0; 
+}
+
+.account{
+	display: inline-block;
+	text-decoration: none;
+	
+}
+.account:hover i {
+	color: #FFF;
+}
+.account:hover span{
+	color: #FFF;
+
+}
+.account:hover a{
+	text-decoration: none;
+	
+}
+
+.fa-user{
+	font-size: 15px;
+	color: #a0a0a0;
+	margin-right: 5px;
+}
+.register{
+	display: inline-block;
+}
+.register:hover span{
+	color: #FFF;
+}
+.register:hover a{
+	text-decoration: none;
+}
